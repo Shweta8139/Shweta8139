@@ -83,8 +83,9 @@ Features:
 
 ## Contact
 
-* LinkedIn: Add your LinkedIn
-* Email: Add your professional email
+* LinkedIn: www.linkedin.com/in/shweta-bhojugade-026798135
+
+* Email: shwetabhojugade@gmail.com
 ## Hi there 👋
 
 <!--
