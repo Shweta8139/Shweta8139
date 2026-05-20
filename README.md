@@ -103,34 +103,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ---
-
-## Tech Stack
-
-### Backend
-- Node.js
-- Express.js
-- Python
-- Flask
-- FastAPI
-
-### Frontend
-- React.js
-- Vite
-
-### Database
-- SQLite3
-- PostgreSQL (Learning)
-
-### Streaming & Security
-- FFmpeg
-- RTSP / HLS
-- JWT Authentication
-
----
-
 ## Current Project
 
-### Project X – Command & Control Platform
+### Project – Command & Control Dashboard
 
 Features:
 - Live IP Camera Streaming
