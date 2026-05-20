@@ -44,23 +44,6 @@ I am currently working on security and surveillance-based Command & Control (C2)
 * ONVIF PTZ Integration
 
 ---
-
-## Current Project
-
-### Project X – Command & Control Platform
-
-Features:
-
-* Unified device registry
-* Live camera streaming
-* PTZ camera control
-* ESPF monitoring
-* SQLite-based backend architecture
-* Real-time dashboard
-* Device health monitoring
-
----
-
 ## Areas of Interest
 
 * Cybersecurity
