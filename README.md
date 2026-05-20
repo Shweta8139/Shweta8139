@@ -102,3 +102,41 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+---
+
+## Tech Stack
+
+### Backend
+- Node.js
+- Express.js
+- Python
+- Flask
+- FastAPI
+
+### Frontend
+- React.js
+- Vite
+
+### Database
+- SQLite3
+- PostgreSQL (Learning)
+
+### Streaming & Security
+- FFmpeg
+- RTSP / HLS
+- JWT Authentication
+
+---
+
+## Current Project
+
+### Project X – Command & Control Platform
+
+Features:
+- Live IP Camera Streaming
+- PTZ Camera Integration
+- ESPF Device Monitoring
+- SQLite Database Migration
+- JWT Authentication
+- Real-time Device Dashboard
+- HLS Streaming Architecture
